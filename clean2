@@ -1,1 +1,3 @@
 find . -iname "*.bak" -o -iname "%" -print -delete
+
+Toujours pas bon, petit indice : "%" c'est pas bon

@@ -1,3 +1,5 @@
-find . -iname "*.bak" -o -iname "%" -print -delete
+find . -iname "*.bak" -o -iname "*%*" -print -delete
 
-Toujours pas bon, petit indice : "%" c'est pas bon
+Je comprends pas peu importe tout ce qui il y a devant tant que sa termine par % peu importe tout ce qu'il y a 
+dérrière tant que sa commence par % ?
+

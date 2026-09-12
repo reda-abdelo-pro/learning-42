@@ -1,0 +1,1 @@
+find . -iname "*.bak" -o . -iname "*%*" -print -delete

@@ -1,0 +1,2 @@
+42 string 42 42 files
+sur l'octet 42 cherche a la valeur 42 si trouvé écris 42 files

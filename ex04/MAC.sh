@@ -1,0 +1,1 @@
+ip -o addr

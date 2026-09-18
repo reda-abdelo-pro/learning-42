@@ -1,3 +1,3 @@
-find . -type f | wc -1
+find . /( -type f -o -type d)\ | wc -1
 
-Find est la commande pour chercher les fichiers réguliers le . cherche dans le répetoire et  tous ses sous-répertoires car c'est tout -type f  cible que les fichiers réguliers | sert a  pour la commande suivante wc -1 compte le nombre de fichiers
+Find est la commande pour chercher les fichiers et les répertoires, . représente "tout" (donc le répertoire courant) / sert  que la commande find exécute bien les deux commandes et la parenthése sert a ce que les deux commandes soit regroupée emsemble et le wc sert a compter et l'option -1 sert a compter uniquement les lignes et voili voulou

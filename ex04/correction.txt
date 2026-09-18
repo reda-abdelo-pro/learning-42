@@ -1,9 +1,0 @@
-Bon, bon, bon… 😏
-Je te conseille de relire attentivement l’énoncé et d’essayer de vraiment comprendre ce que tu fais, plutôt que de copier-coller une commande trouvée sur Internet sans savoir à quoi elle sert 😉
-
-GROS HINT (toujours a toi de chercher ce que veux dire hint en anglais) :
-1 - Suis le protocole que je t’ai donné.
-2 - C’est quoi, exactement, une adresse MAC ?
-3 - Que fait la commande donnée en indice dans l’exercice ? Tu sais… la petite ampoule là 💡😉
-
-Essaie de comprendre chaque étape avant de chercher la commande finale.
